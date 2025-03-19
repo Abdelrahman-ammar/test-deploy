@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 import time
 
-NGROK_URL =  "https://1031-154-176-150-78.ngrok-free.app/chat"
+NGROK_URL =  "https://d444-154-176-154-23.ngrok-free.app/chat"
 
 
 st.title("🐢 Sea Turtles Ai AGENT")
